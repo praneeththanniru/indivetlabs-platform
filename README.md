@@ -39,9 +39,9 @@ IndiVetLabs is a cloud-based veterinary diagnostic booking platform that enables
 
 ## 🏗 Architecture
 
-- **Frontend:** Static HTML + Tailwind CSS
-- **Backend:** Cloud Firestore (Serverless)
-- **Hosting:** Firebase Hosting
+- **Frontend:** Static HTML + Tailwind CSS  
+- **Backend:** Cloud Firestore (Serverless)  
+- **Hosting:** Firebase Hosting  
 
 ---
 
