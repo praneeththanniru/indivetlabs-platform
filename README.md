@@ -1,74 +1,45 @@
-# IndiVetLabs Platform
+# IndiVetLabs – Cloud-Based Veterinary Booking Platform
 
-🌐 Live Website: https://www.indivetlabs.com
+A production-ready veterinary diagnostic booking platform built using Firebase and serverless architecture.
 
----
-
-## 📌 Overview
-
-IndiVetLabs is a cloud-based veterinary diagnostic booking platform enabling pet owners to schedule laboratory tests through a modern serverless architecture.
-
-The platform is fully deployed and operates without a traditional backend server.
+Live Application: https://www.indivetlabs.com
 
 ---
 
-## 🏗 System Architecture
+## Overview
 
-- **Frontend:** Static HTML + Tailwind CSS
-- **Backend:** Cloud Firestore (Serverless NoSQL Database)
-- **Hosting:** Firebase Hosting
-- **Region:** asia-south1
-
-Architecture Design:
-- Client-side booking logic
-- Real-time Firestore storage
-- No dedicated backend server
-- Fully serverless deployment model
+IndiVetLabs is a cloud-native application designed to streamline veterinary diagnostic bookings using a scalable serverless backend.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-- HTML
-- Tailwind CSS
-- Firebase Hosting
-- Cloud Firestore
-
----
-
-## ✨ Core Features
-
-- Online diagnostic booking system
-- Unique booking ID generation
-- Promo code & discount calculation
-- Firestore-based data storage
-- Booking status tracking
-- Payment mode selection
+- HTML  
+- Tailwind CSS  
+- Firebase Hosting  
+- Cloud Firestore  
 
 ---
 
-## 🗂 Database Collections
+## Key Features
 
-- bookings
-- vetApplications
-
----
-
-## 🚀 Deployment
-
-The platform is deployed using Firebase Hosting and connected to Cloud Firestore for real-time data operations.
+- Real-time booking system  
+- Structured Firestore database design  
+- Discount workflow implementation  
+- Fully deployed production environment  
 
 ---
 
-## 🔮 Upcoming Enhancements
+## Architecture Highlights
 
-- Firebase Authentication
-- Role-based access control
-- Admin dashboard
-- Payment gateway integration
+- Serverless backend  
+- Real-time database integration  
+- Scalable cloud deployment  
 
 ---
 
-## 👨‍💻 Author
+## Connect
 
-Praneeth Thanniru
+- LinkedIn: [thanniru-praneeth](https://www.linkedin.com/in/thanniru-praneeth/)
+- Portfolio: [indivetlabs.com](https://www.indivetlabs.com)
+- Email: [thannirupraneeth3@gmail.com](mailto:thannirupraneeth3@gmail.com)
