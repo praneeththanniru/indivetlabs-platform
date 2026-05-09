@@ -1,4 +1,4 @@
-# IndiVetLabs – Cloud-Based Veterinary Booking Platform(OnGoing)
+# IndiVetLabs – Cloud-Based Veterinary Booking Platform(Ongoing)
 
 A production-ready veterinary diagnostic booking platform built using Firebase and serverless architecture.
 
